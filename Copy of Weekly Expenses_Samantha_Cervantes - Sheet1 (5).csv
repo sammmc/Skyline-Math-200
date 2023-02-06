@@ -1,0 +1,30 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/20,Friday,18.1,fruit,Food,Debit
+1/20,Friday,28,amazon,Entertainment and Recreation,Debit
+1/20,Friday,16.47,keychain,Entertainment and Recreation,Debit
+1/21,Saturday,26.22,amazon,Entertainment and Recreation,Debit
+1/21,Saturday,4,brother,Bills,Debit
+1/21,Saturday,61.83,food,Food,Debit
+1/22,Sunday,14.48,target,Entertainment and Recreation,Debit
+1/22,Sunday,115.37,jewlery,Entertainment and Recreation,Credit
+1/22,Sunday,98.88,cleats,Entertainment and Recreation,Credit
+1/23,Monday,7.75,drink,Food,Debit
+1/23,Monday,49.36,marshalls,Entertainment and Recreation,Debit
+1/23,Monday,43.93,target,Entertainment and Recreation,Debit
+1/23,Monday,30.23,amazon,Entertainment and Recreation,Debit
+1/24,Tuesday,14.34,cafe,Food,Debit
+1/25,Wednesday,36.86,mcd,Food,Debit
+1/27,Friday,19.97,uber,Travel,Debit
+1/28,Saturday,20.98,amazon,Entertainment and Recreation,Debit
+1/30,Monday,22.83,amazon,Entertainment and Recreation,Debit
+1/30,Monday,300,babysitting,Financial goals and Savings,Cash
+1/31,Tuesday,24.87,brothers,Food,Debit
+2/1,Wednesday,16.65,philz,Food,Debit
+2/1,Wednesday,22.64,matcha,Food,Debit
+2/2,Wednesday,20.82,CBCS,Food,Debit
+2/2,Wednesday,49.91,clothes/jewlery,Entertainment and Recreation,Debit
+2/2,Wednesday,186.77,jewlery,Entertainment and Recreation,Credit
+2/2,Wednesday,130,mom,Bills,Debit
+2/2,Thursday,7.74,uber,Travel,Debit
+2/4,Saturday,48.82,family food,Food,Cash
+2/5,Sunday,50,amazon,Entertainment and Recreation,Credit
